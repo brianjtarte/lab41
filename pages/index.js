@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          This is my lab submission for assignment 41
+          This is my lab submission for assignment 41. Enjoy!
         </p>
 
 
